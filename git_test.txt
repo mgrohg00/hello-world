@@ -1,1 +1,2 @@
 This is the first test file for git 
+Adding a second line to file 
